@@ -1,0 +1,16 @@
+# Maven 빌드 결과물
+target/
+
+# STS 설정 파일
+.classpath
+.project
+.settings/
+.springBeans
+.factorypath
+.metadata/
+
+# Mac 시스템 파일
+.DS_Store
+
+# Java 컴파일 결과물
+*.class
